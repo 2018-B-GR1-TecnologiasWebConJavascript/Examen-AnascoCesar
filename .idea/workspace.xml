@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="664650a3-4b5a-493e-8795-381358868753" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-b-gr1-master/examen-01/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-b-gr1-master/examen-01/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-b-gr1-master/examen-01/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2018-b-gr1-master/examen-01/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="664650a3-4b5a-493e-8795-381358868753" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -52,13 +46,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="gitignore" value="12" />
-          <entry key="js" value="134" />
+          <entry key="js" value="136" />
           <entry key="ts" value="919" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="134" />
+          <entry key="JavaScript" value="136" />
           <entry key="PLAIN_TEXT" value="12" />
           <entry key="TypeScript" value="919" />
         </counts>
@@ -79,8 +73,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2018-b-gr1-master/examen-01/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="719">
-              <caret line="138" column="21" lean-forward="true" selection-start-line="138" selection-start-column="21" selection-end-line="138" selection-end-column="21" />
+            <state relative-caret-position="662">
+              <caret line="204" column="35" lean-forward="true" selection-start-line="204" selection-start-column="35" selection-end-line="204" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -243,12 +237,12 @@
       <option name="presentableId" value="Default" />
       <updated>1543613346443</updated>
       <workItem from="1543613354252" duration="5352000" />
-      <workItem from="1543618910802" duration="34000" />
+      <workItem from="1543618910802" duration="107000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5386000" />
+    <option name="totallyTimeSpent" value="5459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
@@ -323,8 +317,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2018-b-gr1-master/examen-01/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="719">
-          <caret line="138" column="21" lean-forward="true" selection-start-line="138" selection-start-column="21" selection-end-line="138" selection-end-column="21" />
+        <state relative-caret-position="662">
+          <caret line="204" column="35" lean-forward="true" selection-start-line="204" selection-start-column="35" selection-end-line="204" selection-end-column="35" />
         </state>
       </provider>
     </entry>
